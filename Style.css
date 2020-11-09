@@ -1,0 +1,100 @@
+#img_1 {
+    border-radius: 200%;
+}
+
+body {
+    text-align: center;
+}
+
+#sec_1 {
+    z-index: 9;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(#78a7ff 0%, #133e8f 100%);
+    color: orange;
+    display: table;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 25px;
+
+}
+
+#sec_2 {
+    font-size: 25px;
+    padding: 100px;
+    margin: 20px;
+}
+
+.class_2 {
+    height: 20px;
+    width: 30px;
+    margin: 10px auto;
+    background-color: darkblue;
+
+}
+
+.class_1 {
+    display: table-cell;
+    position: relative;
+    vertical-align: middle;
+    text-align: center;
+
+}
+
+p {
+    max-width: 500px;
+    margin: 30px auto;
+
+}
+
+
+
+.writingsss:hover {
+    color: blueviolet;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+#contacts {
+    background-color: red;
+}
+
+.classese h3 {
+    display: inline;
+
+}
+
+.classese a {
+    color: crimson;
+
+}
+
+.iiiii {
+    position: sticky;
+    z-index: 99999;
+    top: 0;
+}
+
+#imgimgimg {
+    height: 350px;
+}
+
+.movie_head {
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    display: inline-block;
+    font-size: 18px;
+}
+
+.img_Wimpy_Kid {
+    display: inline-block;
+}
